@@ -16,7 +16,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference. 
 
 ![Picture11](https://github.com/polausama/job-Opportunity/assets/53063294/a3080cd5-bd79-4e6c-a0ff-0f5547627fb7) 
- ![Picture12](https://github.com/polausama/job-Opportunity/assets/53063294/6038d62b-07cf-4bfa-a623-badaf7ea68b1)
+                      ![Picture12](https://github.com/polausama/job-Opportunity/assets/53063294/6038d62b-07cf-4bfa-a623-badaf7ea68b1)
 
 ![Picture13](https://github.com/polausama/job-Opportunity/assets/53063294/9ca1c958-b178-4d1b-9d8f-93b316454895)
 ![Picture14](https://github.com/polausama/job-Opportunity/assets/53063294/7907ef78-9bfc-4130-98f7-50d0b111b0f7)
